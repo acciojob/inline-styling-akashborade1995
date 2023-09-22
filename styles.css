@@ -1,13 +1,13 @@
 /*  your css code here. If applicable */
-#f1{
-	background-color:yellow;
+#f1,#f2{
+	background-color:rgb(255, 255, 0);
 	texe-align:center;
 }
 img{
 	width:200px;
 	height:200px;
 }
-#f2{
+/* #f2{
 	background-color:yellow;
 	texe-align:center;
-}
+} */
